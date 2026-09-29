@@ -1,5 +1,5 @@
 /***
-* {Short Description of the lab}
+* {Say Hello World}
 ***/
 
 #include <iostream>
